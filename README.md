@@ -1,1 +1,1 @@
-# Education_initiatives
+# Educational_initiatives
